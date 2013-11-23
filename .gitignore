@@ -1,0 +1,5 @@
+# Compiled code
+*.pyc
+
+# Files containing private or sensitive data
+people.py
